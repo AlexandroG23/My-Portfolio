@@ -14,17 +14,19 @@ export const About = () => {
 
             <p className="style-p-sm md:text-lg xl:text-xl lg:text-lg">
               Resido en Lima - Perú, soy un estudiante de Ing. de Sistemas e
-              Informática, con sólidos conocimientos en lenguajes de
-              programación, bases de datos y frameworks.
+              Informática, en busca de oportunidades para desarrollarme en el
+              ámbito laboral y profesional.
             </p>
             <p className="style-p-sm md:text-lg xl:text-xl lg:text-lg">
-              Me caracterizo por ser una persona perserverante, encontrándome en
+              Me caracterizo por ser una persona perseverante, encontrándome en
               constante y permanente aprendizaje para estar siempre actualizado
               con las últimas novedades, tecnologías y poder añadirle el mayor
               valor posible a mis proyectos.
             </p>
             <p className="style-p-sm md:text-lg xl:text-xl lg:text-lg">
-              Mi pasion por el diseño web y la programación me ha llevado a enfocarme a crear sitios web unicos y de calidad, con el objetivo de brindar una buena experiencia de usuario.
+              Mi pasión por el diseño web y la programación me ha llevado a
+              enfocarme a crear sitios web únicos y de calidad, con el objetivo
+              de brindar una buena experiencia de usuario.
             </p>
 
             {/* Botones */}
