@@ -25,9 +25,9 @@ export const Principal = () => {
           </h2>
 
           <p className="style-p-sm md:text-lg xl:text-xl lg:text-lg">
-            Apasionado por la tecnología y el desarrollo web, tengo
-            conocimientos sólidos en lenguajes de programación, bases de datos y
-            frameworks.
+            Apasionado por el desarrollo web y la programación. Tengo
+            experiencia en el desarrollo de aplicaciones web con conocimientos
+            sólidos en lenguajes de programación, bases de datos y frameworks.
           </p>
           <p className="style-p-sm md:text-lg xl:text-xl lg:text-lg">
             Mi enfoque se centra en contribuir de manera significativa al
